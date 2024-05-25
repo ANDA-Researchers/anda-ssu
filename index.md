@@ -1,7 +1,7 @@
 ---
 ---
 
-# ANDA-ResearchersDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Advanced Network Design and Analysis (ANDA) Lab
 
 
 
