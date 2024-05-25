@@ -1,8 +1,8 @@
 ---
 name: Myungsik Yoo
 image: images/myoo.jpg
-description: prof
-role: Professor
+description: Professor
+role: prof
 links:
   email: myoo@ssu.ac.kr
   orcid: 0000-0002-5578-6931
