@@ -1,5 +1,5 @@
 
-# ANDA-ResearchersDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Advanced Network Design anda Analysis (ANDA) Lab
 
 Visit **[anda-researchers.github.io/anda-ssu](https://anda-researchers.github.io/anda-ssu)** 🚀
 
