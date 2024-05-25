@@ -1,7 +1,7 @@
 ---
 name: Ngoc-Quan Ha-Phan
 image: images/hphnngcquan.jpg
-role: Master's Student
+role: master
 aliases:
   - Q. Ha
 links:
