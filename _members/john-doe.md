@@ -1,10 +1,9 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Anh Khoi Bui
+image: images/kbui.jpg
+role: master
 links:
-  github: john-doe
+  github: https://github.com/icyj1003
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
